@@ -221,7 +221,7 @@
               }
 
               
-       .form__label-type_checkbox{
+             .form__label.form__label_type_checkbox{
           display: flex;
           align-items: center;
           gap: 10px;

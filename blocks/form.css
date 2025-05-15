@@ -20,6 +20,7 @@
   box-sizing: border-box;
   margin: 8px 0 32px;
   border: 1px solid #838383;
+  border-radius: 4px;
   font-size: 20px;
   line-height: 30px;
 
@@ -52,7 +53,7 @@
 }
 
 
-.form__label.form__label_type_checkbox {
+.form__label_type_checkbox {
   display: flex;
   align-items: center;
   gap: 10px;
